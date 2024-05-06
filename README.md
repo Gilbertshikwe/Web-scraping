@@ -28,8 +28,6 @@ Some popular tools and libraries for web scraping include:
 - BeautifulSoup: A Python library for parsing HTML and XML documents.
 - Scrapy: A Python framework for web crawling and scraping.
 - Selenium: A web automation tool that can be used for dynamic web scraping.
-- Puppeteer: A Node.js library for controlling headless Chrome or Chromium browsers.
-- Requests: A Python library for making HTTP requests and retrieving web content.
 
 **4. Best Practices:**
 When performing web scraping, it's essential to follow best practices to ensure efficiency, reliability, and legality:
